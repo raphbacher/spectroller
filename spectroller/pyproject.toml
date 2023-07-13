@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "spectroller"
+version = "0.1.0"
+description = ""
+authors = ["Raphael <bacher.raphael@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyserial = "^3.5"
+pysimplegui = "^4.60.4"
+tomli = "^2.0.1"
+tomli-w = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

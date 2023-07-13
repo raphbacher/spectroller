@@ -1,0 +1,22 @@
+[filtres]
+filtres = [
+    "Sodium",
+    "Filtre 2",
+    "Filtre 3",
+    "Filtre 4",
+    "Filtre 5",
+    "Filtre 6",
+]
+filtreActuel = "Filtre 4"
+ratioFiltreStep = 12
+nbPas = 12
+
+[reseau]
+posActuel = 1200
+posCibleDefaut = 1200
+ratioLambdaStep = 34
+nbPas = 12
+
+[font]
+size = 14
+font = "Arial"
